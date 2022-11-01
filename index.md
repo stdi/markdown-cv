@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: stdi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# STDI
+Musician, Book Reader, Food Lover.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="st@di.st">fictional@address.ex</a>
+| <a href="http://en.wikipedia.org/wiki/stdi">My fictional wikipedia page</a>
 </div>
 
 
@@ -86,6 +86,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2022 -->
 
 
