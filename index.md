@@ -72,16 +72,15 @@ __Other company__, Global
 
 
 
-### Navigation
+## Navigation
 
+<div>
+  <img style="float: left;" src="https://sdy60-2022.netlify.app/assets/images/logo.jpg">
+</div>
+
+This site is part of [sdy60 2022-2023](https://sdy60-2022.netlify.app) webring.
 
 [Previous](https://sdy60-2022.netlify.app/prev)
 [Random](https://sdy60-2022.netlify.app/random)
 [Next](https://sdy60-2022.netlify.app/next)
-
-
-
-
-Last updated: November 2022
-
 
