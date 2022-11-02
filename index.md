@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Dtdi CV
+title: Stdi CV
 ---
 # STDI
 Musician, Book Reader, Food Lover.
@@ -74,7 +74,7 @@ __Other company__, Global
 
 
 
-### Footer
+### Navigation
 
 
 [Previous](https://sdy60-2022.netlify.app/prev)
