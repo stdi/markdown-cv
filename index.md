@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Stdi's CV
 ---
-# Isaac Newton
+# stdi
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -13,33 +13,25 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Reading books, taking walks
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Cycling, Hiking, Mountaineering
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Musical instruments, engineering
 
 
 ## Education
 
-`1654-1660`
+`1980-1985`
 __The King's School, Grantham.__
 
-`June 1661 - now`
+`October 1986 - now`
 __Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
 
 
 ## Awards
@@ -53,17 +45,16 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+> A list of publications
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+A list of journals
+==================
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+1. First journal
+2. Second journal
+3. Third journal 
 
 ### Patents
 
@@ -73,19 +64,21 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
+`2016 - 2022`
 __Royal Mint__, London
 
 - Warden
 - Minted coins
 
-`1600`
+`2010 - 2016`
 __Lucasian professor of Mathematics__, Cambridge University
 
 
+[Previous](https://sdy60-2022.netlify.app/prev)
+[Random](https://sdy60-2022.netlify.app/random)
+[Next](https://sdy60-2022.netlify.app/next)
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: November 2022 -->
 
 
