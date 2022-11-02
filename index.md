@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: stdi's CV
+title: Dtdi CV
 ---
 # STDI
 Musician, Book Reader, Food Lover.
@@ -13,79 +13,77 @@ Musician, Book Reader, Food Lover.
 
 ## Currently
 
-Standing on the shoulders of giants
+Hiking, Running, Book reading
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Breaking things, fixing things
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cooking, Instrumentation, Information
 
 
 ## Education
 
-`1654-1660`
+`1990-1995`
 __The King's School, Grantham.__
 
-`June 1661 - now`
+`October 1995 - 2000`
 __Trinity College, Cambridge__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2000 - now`
+__Space Center__
 
 
 
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+Best Manager, *Fictional Company*, ISS, Space
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list of publications
+======================
+
+1. Something
+2. Something
+3. Something
+
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2018`
+stdi, Some publication. 
 
-`1669`
-Lectiones opticæ.
+`2020`
+stdi. Some other publication.
 
 etc. etc. etc.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2015 - 2020`
+__Some company__, Space
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2020 - now`
+__Other company__, Global
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: November 2022 -->
+
+[Previous](https://sdy60-2022.netlify.app/prev)
+[Random](https://sdy60-2022.netlify.app/random)
+[Next](https://sdy60-2022.netlify.app/next)
+
+
+
+
+Last updated: November 2022
 
 
