@@ -70,13 +70,7 @@ __Some company__, Space
 `2020 - now`
 __Other company__, Global
 
-
-
 ## Navigation
-
-<div>
-  <img style="float: left;" src="https://sdy60-2022.netlify.app/assets/images/logo.jpg">
-</div>
 
 This site is part of [sdy60 2022-2023](https://sdy60-2022.netlify.app) webring.
 
