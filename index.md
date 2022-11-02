@@ -72,7 +72,7 @@ __Other company__, Global
 
 ## Navigation
 
-This site is part of [sdy60 2022-2023](https://sdy60-2022.netlify.app) webring.
+> This site is part of [sdy60 2022-2023](https://sdy60-2022.netlify.app) webring.
 
 [Previous](https://sdy60-2022.netlify.app/prev)
 [Random](https://sdy60-2022.netlify.app/random)
