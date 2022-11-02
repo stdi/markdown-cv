@@ -46,15 +46,13 @@ Best Manager, *Fictional Company*, ISS, Space
 
 ## Publications
 
-A list of publications
-======================
+`2022`
+Some Publication, stdi
 
-1. Something
-2. Something
-3. Something
+`2020`
+Another Publication, stdi, co-authors
 
-
-### Journals
+## Journals
 
 `2018`
 stdi, Some publication. 
