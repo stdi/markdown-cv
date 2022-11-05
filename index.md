@@ -74,7 +74,7 @@ __Other company__, Global
 
 > This site is part of [sdy60 2022-2023](https://sdy60-2022.netlify.app) webring.
 
-[Previous](https://sdy60-2022.netlify.app/prev)
+[Previous](https://atsiano81.github.io/myCV/)
 [Random](https://sdy60-2022.netlify.app/random)
-[Next](https://sdy60-2022.netlify.app/next)
+[Next](https://nikosandreadakis.github.io/)
 
